@@ -1,4 +1,4 @@
-<h4 align="left">for contact</h4>
+<h4 align="left">iletisim</h4>
 
  - Discord: private
 
