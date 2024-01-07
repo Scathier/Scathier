@@ -1,5 +1,5 @@
 # Scathierr
-<h4 align="left">for contact</h4>
+
 
  - **Discord**: **Scathier**
 
